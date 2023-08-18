@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hududgaz2</string>
+
+    <!--  MainActivity  -->
+    <string name="logo">Hudugaz 2.0</string>
+    <string name="description">Maxsus raqamlarni tasvirga oling!</string>
+    <string name="scan">Tekshirish</string>
+    <string name="system">Tizim</string>
+    <string name="doc">Hujjat</string>
+    <string name="clear">Tozalash</string>
+    <string name="document_check">\"%sNI TEKSHIRING\"</string>
+    <string name="qr_site">Saytdagi QR kodga qarating</string>
+    <string name="qr_doc">Hujjatdagi QR kodga qarating</string>
+    <string name="cancelled">Bekor qilindi</string>
+    <string name="sending">Jo&#8217;natildi</string>
+    <string name="not_match">Moslik yo&#8216;q</string>
+    <string name="scanned">Tekshirildi</string>
+
+    <!-- Dialog -->
+    <string name="waiting">Kuting &#8230;</string>
+    <string name="no_result">Natija yo&#8216;q</string>
+    <string name="retry">Qayta tekshirish</string>
+    <string name="no_connect">Ulanib bo&#8216;</string>
+    <string name="error">Xatolik</string>
+</resources>
